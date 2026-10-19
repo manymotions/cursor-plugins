@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-image-generation",
+  "displayName": "AI Image Generator by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a text prompt into up to four AI images with Nano Banana, Flux, Seedream or Ideogram. Cursor sets up the prompt, ratio, resolution and model, shows the credit cost for free, generates only when you ask, and returns the image links from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#video-image-maker",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "ai-image",
+    "image-generator",
+    "text-to-image",
+    "nano-banana",
+    "flux",
+    "seedream",
+    "ideogram",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "ai-image",
+    "image-generator",
+    "text-to-image",
+    "nano-banana",
+    "flux",
+    "seedream"
+  ],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "manymotions-video-image-generation": {
+      "type": "http",
+      "url": "https://manymotions.com/api/grok/mcp"
+    }
+  }
+}

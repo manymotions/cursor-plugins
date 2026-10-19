@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-logo-maker",
+  "displayName": "AI Logo Maker by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Describe your brand and get up to four AI logo concepts as PNG images. Cursor writes the logo brief, shows the credit cost for free, generates only when you ask, and returns the logo links from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#logo-maker",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "logo",
+    "logo-maker",
+    "logo-generator",
+    "logo-design",
+    "brand",
+    "branding",
+    "design",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "logo",
+    "logo-maker",
+    "logo-generator",
+    "logo-design",
+    "brand",
+    "branding"
+  ],
+  "mcpServers": "./mcp.json"
+}

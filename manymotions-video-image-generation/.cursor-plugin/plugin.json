@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-video-image-generation",
+  "displayName": "AI Video & Image Maker by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a text prompt into AI images or short AI video clips, with models such as Nano Banana, Flux, Kling, Veo and Seedance. Cursor picks the format, ratio, length and model, shows the credit cost for free, generates only when you ask, and returns the files from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#video-image-maker",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "ai-video",
+    "ai-image",
+    "video-generator",
+    "image-generator",
+    "text-to-video",
+    "text-to-image",
+    "media",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "ai-video",
+    "ai-image",
+    "video-generator",
+    "image-generator",
+    "text-to-video",
+    "text-to-image"
+  ],
+  "mcpServers": "./mcp.json"
+}

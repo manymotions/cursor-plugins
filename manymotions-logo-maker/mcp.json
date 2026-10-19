@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "manymotions-logo-maker": {
+      "type": "http",
+      "url": "https://manymotions.com/api/grok/logomaker/mcp"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "manymotions-ugc-video-ads",
+  "displayName": "AI UGC Video Ads by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a product brief into a short UGC-style video ad for TikTok, Reels and Shorts, with an AI presenter and voice, script and final cut. Cursor prepares the plan and the credit cost for free, produces the ad only when you ask, and returns the MP4 link from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#ugc-video-ads",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "ugc",
+    "ugc-ads",
+    "video-ads",
+    "ai-video-ads",
+    "ad-generator",
+    "tiktok-ads",
+    "reels",
+    "marketing",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "ugc",
+    "ugc-ads",
+    "video-ads",
+    "ai-video-ads",
+    "ad-generator",
+    "tiktok-ads"
+  ],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "manymotions",
+  "owner": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "metadata": {
+    "description": "ManyMotions plugins for Cursor: AI video, image, logo and video ad generation through the ManyMotions MCP servers.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "manymotions-video-generation",
+      "source": "manymotions-video-generation",
+      "description": "Turn a text prompt into a short AI video clip with Kling, Veo, Seedance or Wan. Cursor sets up the prompt, ratio, length and model, shows the credit cost for free, generates only when you ask, and returns the MP4 link from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-image-generation",
+      "source": "manymotions-image-generation",
+      "description": "Turn a text prompt into up to four AI images with Nano Banana, Flux, Seedream or Ideogram. Cursor sets up the prompt, ratio, resolution and model, shows the credit cost for free, generates only when you ask, and returns the image links from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-video-image-generation",
+      "source": "manymotions-video-image-generation",
+      "description": "Turn a text prompt into AI images or short AI video clips, with models such as Nano Banana, Flux, Kling, Veo and Seedance. Cursor picks the format, ratio, length and model, shows the credit cost for free, generates only when you ask, and returns the files from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-logo-maker",
+      "source": "manymotions-logo-maker",
+      "description": "Describe your brand and get up to four AI logo concepts as PNG images. Cursor writes the logo brief, shows the credit cost for free, generates only when you ask, and returns the logo links from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-ugc-video-ads",
+      "source": "manymotions-ugc-video-ads",
+      "description": "Turn a product brief into a short UGC-style video ad for TikTok, Reels and Shorts, with an AI presenter and voice, script and final cut. Cursor prepares the plan and the credit cost for free, produces the ad only when you ask, and returns the MP4 link from your ManyMotions account."
+    }
+  ]
+}
