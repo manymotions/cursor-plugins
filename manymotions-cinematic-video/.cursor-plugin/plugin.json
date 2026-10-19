@@ -1,0 +1,38 @@
+{
+  "name": "manymotions-cinematic-video",
+  "displayName": "Cinematic Video by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Describe a scene, pick one of 61 named camera moves (dolly, crane, orbit, crash zoom, dolly zoom, FPV drone, bullet time) plus shot, lighting and look, and render a cinematic text-to-video shot with Veo, Kling, Seedance or Wan in your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#cinematic-video",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "cinematic",
+    "cinematic-video",
+    "camera-moves",
+    "text-to-video",
+    "filmmaking",
+    "b-roll",
+    "veo",
+    "kling",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "cinematic",
+    "cinematic-video",
+    "camera-moves",
+    "text-to-video",
+    "filmmaking",
+    "b-roll"
+  ],
+  "mcpServers": "./mcp.json"
+}

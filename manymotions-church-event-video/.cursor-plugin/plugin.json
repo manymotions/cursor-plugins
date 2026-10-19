@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-church-event-video",
+  "displayName": "Church Videos by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn the details of a service, holiday celebration, conference, retreat or community gathering into a warm invitation video with a welcome spoken to camera, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#church-event-video",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "church",
+    "church-video",
+    "faith",
+    "event-invitation",
+    "community-event",
+    "invitation-video",
+    "ai-video",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "church",
+    "church-video",
+    "faith",
+    "event-invitation",
+    "community-event",
+    "invitation-video"
+  ],
+  "mcpServers": "./mcp.json"
+}

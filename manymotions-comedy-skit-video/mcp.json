@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "manymotions-comedy-skit-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/grok/comedy-skit-video/mcp"
+    }
+  }
+}

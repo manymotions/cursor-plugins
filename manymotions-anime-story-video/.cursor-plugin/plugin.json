@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-anime-story-video",
+  "displayName": "Anime Stories by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a story idea into an animated short in anime, cel, chibi, cartoon, storybook or 3D style, with recurring characters, dialogue and narration, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#anime-story-video",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "anime",
+    "anime-video",
+    "cartoon",
+    "animation",
+    "animated-story",
+    "storytelling",
+    "ai-video",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "anime",
+    "anime-video",
+    "cartoon",
+    "animation",
+    "animated-story",
+    "storytelling"
+  ],
+  "mcpServers": "./mcp.json"
+}

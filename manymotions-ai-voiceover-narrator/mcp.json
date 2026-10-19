@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "manymotions-ai-voiceover-narrator": {
+      "type": "http",
+      "url": "https://manymotions.com/api/grok/ai-voiceover-narrator/mcp"
+    }
+  }
+}

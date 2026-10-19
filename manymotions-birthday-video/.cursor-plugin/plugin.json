@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-birthday-video",
+  "displayName": "Birthday Videos by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn the memories you describe into a personal birthday, anniversary or milestone tribute video with voice-over and a closing wish spoken to camera, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#birthday-video",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "birthday",
+    "birthday-video",
+    "birthday-wishes",
+    "tribute-video",
+    "anniversary",
+    "greeting-video",
+    "ai-video",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "birthday",
+    "birthday-video",
+    "birthday-wishes",
+    "tribute-video",
+    "anniversary",
+    "greeting-video"
+  ],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-ai-avatar-presenter",
+  "displayName": "AI Avatar Video by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a topic into an explainer, lesson or self-introduction video spoken to camera by an AI presenter with an AI voice, scripted scene by scene and delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#ai-avatar-presenter",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "ai-avatar",
+    "ai-presenter",
+    "talking-avatar",
+    "explainer-video",
+    "lesson",
+    "training-video",
+    "ai-video",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "ai-avatar",
+    "ai-presenter",
+    "talking-avatar",
+    "explainer-video",
+    "lesson",
+    "training-video"
+  ],
+  "mcpServers": "./mcp.json"
+}

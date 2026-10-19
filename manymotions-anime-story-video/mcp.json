@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "manymotions-anime-story-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/grok/anime-story-video/mcp"
+    }
+  }
+}

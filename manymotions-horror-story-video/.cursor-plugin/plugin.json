@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-horror-story-video",
+  "displayName": "Horror Stories by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a scary story idea into a narrated horror, paranormal, creepypasta or suspense short for faceless YouTube, TikTok and Shorts channels, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#horror-story-video",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "horror",
+    "horror-story",
+    "scary-story",
+    "creepypasta",
+    "faceless-channel",
+    "storytelling",
+    "ai-video",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "horror",
+    "horror-story",
+    "scary-story",
+    "creepypasta",
+    "faceless-channel",
+    "storytelling"
+  ],
+  "mcpServers": "./mcp.json"
+}

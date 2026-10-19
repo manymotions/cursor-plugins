@@ -1,0 +1,36 @@
+{
+  "name": "manymotions-moodboard-generator",
+  "displayName": "Moodboards by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a creative brief into a moodboard of five distinct visual directions, each rendered as square images by two image models, delivered from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#moodboard-generator",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "moodboard",
+    "mood-board",
+    "creative-brief",
+    "visual-direction",
+    "design",
+    "ai-image",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "moodboard",
+    "mood-board",
+    "creative-brief",
+    "visual-direction",
+    "design",
+    "ai-image"
+  ],
+  "mcpServers": "./mcp.json"
+}

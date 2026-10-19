@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-travel-video",
+  "displayName": "Travel Videos by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a destination or a journey into a narrated travel guide, journey diary or short documentary with generated scenes of the place, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#travel-video",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "travel",
+    "travel-video",
+    "travel-guide",
+    "documentary",
+    "destination",
+    "storytelling",
+    "ai-video",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "travel",
+    "travel-video",
+    "travel-guide",
+    "documentary",
+    "destination",
+    "storytelling"
+  ],
+  "mcpServers": "./mcp.json"
+}

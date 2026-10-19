@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-ai-voiceover-narrator",
+  "displayName": "AI Voiceover by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn your text into a spoken voiceover read by a stock AI voice in the delivery style you describe (warm narrator, calm, documentary, bedtime story), delivered as an MP3 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#ai-voiceover-narrator",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "voiceover",
+    "text-to-speech",
+    "tts",
+    "narration",
+    "ai-voice",
+    "audio",
+    "mp3",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "voiceover",
+    "text-to-speech",
+    "tts",
+    "narration",
+    "ai-voice",
+    "audio"
+  ],
+  "mcpServers": "./mcp.json"
+}

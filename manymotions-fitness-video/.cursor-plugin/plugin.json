@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-fitness-video",
+  "displayName": "Fitness Videos by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn an exercise, routine or training goal into a workout short with an AI athlete training in a gym, outdoors or at home and a short narration, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#fitness-video",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "fitness",
+    "fitness-video",
+    "workout",
+    "workout-video",
+    "gym",
+    "training",
+    "ai-video",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "fitness",
+    "fitness-video",
+    "workout",
+    "workout-video",
+    "gym",
+    "training"
+  ],
+  "mcpServers": "./mcp.json"
+}

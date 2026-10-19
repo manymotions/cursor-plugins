@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "manymotions-fitness-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/grok/fitness-video/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "manymotions-cinematic-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/grok/cinematic-video/mcp"
+    }
+  }
+}

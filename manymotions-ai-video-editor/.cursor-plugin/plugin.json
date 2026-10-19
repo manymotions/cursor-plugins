@@ -1,0 +1,38 @@
+{
+  "name": "manymotions-ai-video-editor",
+  "displayName": "AI Video Editor by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Edit your ManyMotions video projects from Cursor: place clips from the project's library on the timeline, remove and reorder them, set transitions, burn in subtitles from SRT or VTT text and export the finished MP4.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/ai/ai-video-editor",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "video-editor",
+    "ai-video-editor",
+    "video-editing",
+    "timeline",
+    "captions",
+    "subtitles",
+    "transitions",
+    "export-mp4",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "video-editor",
+    "ai-video-editor",
+    "video-editing",
+    "timeline",
+    "captions",
+    "subtitles"
+  ],
+  "mcpServers": "./mcp.json"
+}

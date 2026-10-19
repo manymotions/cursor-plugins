@@ -5,7 +5,7 @@
     "email": "info@manymotions.com"
   },
   "metadata": {
-    "description": "ManyMotions plugins for Cursor: AI video, image, logo and video ad generation through the ManyMotions MCP servers.",
+    "description": "ManyMotions plugins for Cursor: AI video, image, logo, video ad, voiceover and moodboard generation and timeline video editing through the ManyMotions MCP servers.",
     "version": "1.0.0"
   },
   "plugins": [
@@ -33,6 +33,76 @@
       "name": "manymotions-ugc-video-ads",
       "source": "manymotions-ugc-video-ads",
       "description": "Turn a product brief into a short UGC-style video ad for TikTok, Reels and Shorts, with an AI presenter and voice, script and final cut. Cursor prepares the plan and the credit cost for free, produces the ad only when you ask, and returns the MP4 link from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-ai-avatar-presenter",
+      "source": "manymotions-ai-avatar-presenter",
+      "description": "Turn a topic into an explainer, lesson or self-introduction video spoken to camera by an AI presenter with an AI voice, scripted scene by scene and delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-anime-story-video",
+      "source": "manymotions-anime-story-video",
+      "description": "Turn a story idea into an animated short in anime, cel, chibi, cartoon, storybook or 3D style, with recurring characters, dialogue and narration, delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-birthday-video",
+      "source": "manymotions-birthday-video",
+      "description": "Turn the memories you describe into a personal birthday, anniversary or milestone tribute video with voice-over and a closing wish spoken to camera, delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-church-event-video",
+      "source": "manymotions-church-event-video",
+      "description": "Turn the details of a service, holiday celebration, conference, retreat or community gathering into a warm invitation video with a welcome spoken to camera, delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-cinematic-video",
+      "source": "manymotions-cinematic-video",
+      "description": "Describe a scene, pick one of 61 named camera moves (dolly, crane, orbit, crash zoom, dolly zoom, FPV drone, bullet time) plus shot, lighting and look, and render a cinematic text-to-video shot with Veo, Kling, Seedance or Wan in your ManyMotions account."
+    },
+    {
+      "name": "manymotions-comedy-skit-video",
+      "source": "manymotions-comedy-skit-video",
+      "description": "Turn a premise into a short AI comedy skit with original characters, deadpan, absurd, parody, observational or slapstick, built to land one joke for TikTok, Reels and Shorts, delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-fitness-video",
+      "source": "manymotions-fitness-video",
+      "description": "Turn an exercise, routine or training goal into a workout short with an AI athlete training in a gym, outdoors or at home and a short narration, delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-horror-story-video",
+      "source": "manymotions-horror-story-video",
+      "description": "Turn a scary story idea into a narrated horror, paranormal, creepypasta or suspense short for faceless YouTube, TikTok and Shorts channels, delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-short-film-maker",
+      "source": "manymotions-short-film-maker",
+      "description": "Turn a logline into a narrative AI short film with characters, dialogue and a film look across several scenes, in drama, sci-fi, thriller, romance, mystery or fantasy, delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-travel-video",
+      "source": "manymotions-travel-video",
+      "description": "Turn a destination or a journey into a narrated travel guide, journey diary or short documentary with generated scenes of the place, delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-ai-voiceover-narrator",
+      "source": "manymotions-ai-voiceover-narrator",
+      "description": "Turn your text into a spoken voiceover read by a stock AI voice in the delivery style you describe (warm narrator, calm, documentary, bedtime story), delivered as an MP3 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-animated-explainer-video",
+      "source": "manymotions-animated-explainer-video",
+      "description": "Turn a topic into an animated explainer video of about 30 seconds: four illustrated scenes with motion and a voiceover, no presenter on camera, delivered as an MP4 from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-moodboard-generator",
+      "source": "manymotions-moodboard-generator",
+      "description": "Turn a creative brief into a moodboard of five distinct visual directions, each rendered as square images by two image models, delivered from your ManyMotions account."
+    },
+    {
+      "name": "manymotions-ai-video-editor",
+      "source": "manymotions-ai-video-editor",
+      "description": "Edit your ManyMotions video projects from Cursor: place clips from the project's library on the timeline, remove and reorder them, set transitions, burn in subtitles from SRT or VTT text and export the finished MP4."
     }
   ]
 }

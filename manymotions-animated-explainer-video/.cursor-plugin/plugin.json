@@ -1,0 +1,36 @@
+{
+  "name": "manymotions-animated-explainer-video",
+  "displayName": "Explainer Video by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a topic into an animated explainer video of about 30 seconds: four illustrated scenes with motion and a voiceover, no presenter on camera, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#animated-explainer-video",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "explainer-video",
+    "animated-explainer",
+    "animation",
+    "motion-graphics",
+    "education",
+    "ai-video",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "explainer-video",
+    "animated-explainer",
+    "animation",
+    "motion-graphics",
+    "education",
+    "ai-video"
+  ],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "manymotions-horror-story-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/grok/horror-story-video/mcp"
+    }
+  }
+}

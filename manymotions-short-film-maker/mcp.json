@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "manymotions-short-film-maker": {
+      "type": "http",
+      "url": "https://manymotions.com/api/grok/short-film-maker/mcp"
+    }
+  }
+}

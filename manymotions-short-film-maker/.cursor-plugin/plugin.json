@@ -1,0 +1,37 @@
+{
+  "name": "manymotions-short-film-maker",
+  "displayName": "Short Films by ManyMotions",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Turn a logline into a narrative AI short film with characters, dialogue and a film look across several scenes, in drama, sci-fi, thriller, romance, mystery or fantasy, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "email": "info@manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#short-film-maker",
+  "repository": "https://github.com/manymotions/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "short-film",
+    "ai-film",
+    "filmmaking",
+    "storytelling",
+    "screenplay",
+    "sci-fi",
+    "ai-video",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "short-film",
+    "ai-film",
+    "filmmaking",
+    "storytelling",
+    "screenplay",
+    "sci-fi"
+  ],
+  "mcpServers": "./mcp.json"
+}
